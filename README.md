@@ -9,10 +9,6 @@
 # Setup
 ## You will need to create your own discord bot https://discord.com/developers/docs/intro and provide the token key at the bottom of the notifyme.py file in bot.run()
 
-# Virtual Environment
-## if you aren't familiar with python you will need a venv. 
-## it can be created in the terminal with the command python -m venv venv
-## activate the venv using the command venv/Scripts/activate on windows and source venv/bin/activate on mac/linux
 
 
 
