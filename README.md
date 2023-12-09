@@ -1,5 +1,5 @@
 # notify-me-bot
-## A discord bot made in python that has commands that allow you to track a users messages or voice channel activity.
+## Discord bot made in python that has commands that allow you to track a users messages or voice channel activity within a server/s with access to the bot.
 ### It was made for personal use so there would be problems with scalability if it had a large user base (the tracked user data is stored in a pickle file and not an external DB)
 ### I currently have it running in a AWS EC2 Ubuntu instance.
 
